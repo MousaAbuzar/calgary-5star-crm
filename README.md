@@ -25,7 +25,7 @@ A full-stack CRM (Customer Relationship Management) system built specifically fo
 - **7-day booking chart** — area graph showing the dollar value of scheduled jobs for the next 7 days
 - **7-day booking goal** — set a revenue target, watch the progress bar fill as jobs are booked, with stats on jobs booked, amount still needed, and average per job. Goal persists across sessions.
 
-### Email Campaigns
+### Email Campaigns (This feature generated $30,000+)
 - Create rich HTML email campaigns with a live preview tab
 - Target customers by tag, status, or select individually
 - Send immediately or schedule for a future date/time
